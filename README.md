@@ -11,9 +11,9 @@ cd ts-exercises
 npm init -y
 ```
 
-### 2. Install TypeScript as a development dependency
+### 2. Install TypeScript and ts-node-dev as development dependencies
 ```bash
-npm install typescript --save-dev
+npm install typescript ts-node-dev --save-dev
 ```
 
 ### 3. Generate the TypeScript configuration file
